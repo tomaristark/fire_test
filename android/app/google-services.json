@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588644881842",
+    "project_id": "fire-noti-test-79f56",
+    "storage_bucket": "fire-noti-test-79f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588644881842:android:befd719fa1d3805a6cc0ab",
+        "android_client_info": {
+          "package_name": "com.example.fire_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEI0UczyRtm2yeGWppvFdp1Fovu4RNVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
